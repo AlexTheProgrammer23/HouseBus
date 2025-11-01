@@ -43,7 +43,7 @@ Planned Components:
 
 Each Component:
 - has a unique ID
-- connects over RS-485 (A/B/GND/+12V)
+- connects over RS-485 (A/B/GND)
 - responds to simple text commands like `STATE?`
 - can generate an alarm (for example, “backup lighting active in hallway”)
 
@@ -52,10 +52,10 @@ HouseBus is a multi-drop RS-485 bus with power distribution.
 RJ45 pinout (not Ethernet):
 1: RS485_A  
 2: RS485_B  
-3: +12V BUS  
-4: +12V BUS  
-5: GND  
-6: GND  
+3: GND
+4: NC
+5: NC
+6: NC  
 7: NC  
 8: NC  
 

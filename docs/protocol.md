@@ -1,7 +1,7 @@
 # HouseBus Protocol (Draft A)
 
 ## Physical layer
-- RS-485 half-duplex bus (A/B/GND/+12V shared on RJ45)
+- RS-485 half-duplex bus (A/B/GND/shared on RJ45)
 - Pico is the bus master
 
 ## Frame format (ASCII, human debuggable)

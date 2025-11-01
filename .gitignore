@@ -1,0 +1,9 @@
+# Python  
+__pycache__/  
+*.pyc  
+# EasyEDA / KiCad  
+*.bak  
+*.z01  
+*.zip  
+# Node/JS  
+node_modules/  

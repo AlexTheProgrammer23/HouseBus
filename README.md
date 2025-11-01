@@ -34,7 +34,7 @@ The Hub Baseboard is responsible for:
 - telling the Pi 4 what's going on so it can display and log it
 
 ### 2. Components
-A "Component" is any module on the HouseBus that does one physical job.
+A "Component" is any module on the HouseBus that does a job(s).
 Planned Components:
 - Powerfail Light (turns on emergency lighting when main power is gone)
 - Sensor Node (reports temperature / humidity / air quality)

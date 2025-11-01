@@ -81,6 +81,10 @@ The Raspberry Pi 4 asks the Pico for a summary and pushes it to Home Assistant /
 This project is currently in virtual design / simulation.
 No production hardware exists yet.
 
+## Status (v0.1 Prototype)  
+- Hub Baseboard Rev A: design in progress  
+- Firmware: Pico skeleton ready  
+
 ## License
 
 MIT License. See `LICENSE`.

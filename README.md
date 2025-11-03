@@ -1,6 +1,8 @@
-# Housebus
+[![Shopify](https://img.shields.io/badge/Go_to-Shopify_Store-brightgreen)](housenet.store)
 
-Housebus is an open hardware + open firmware platform for resilient, local-first home infrastructure.
+# HouseBus
+
+HouseBus is an open hardware + open firmware platform for resilient, local-first home infrastructure.
 
 ## What it does
 

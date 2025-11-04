@@ -51,7 +51,8 @@ Each Component:
 
 ### 3. HouseBus
 HouseBus is a multi-drop RS-485 bus with power distribution.
-RJ45 pinout (not Ethernet)                                                                                                                                                                       1: 1:RS485_A  
+RJ45 pinout (not Ethernet)
+1: RS485_A  
 2: RS485_B  
 3: GND
 

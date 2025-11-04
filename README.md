@@ -6,9 +6,8 @@ HouseBus is an open hardware + open firmware platform for resilient, local-first
 
 ## What it does
 
-- Detects loss of power and automatically switches critical loads (like emergency lights) to backup.
 - Keeps devices talking to each other over a wired RS-485 bus called HouseBus.
-- Exposes status, alarms, and sensor data to a central Hub that can show it on an HDMI screen, send alerts to Home Assistant, and log events — all without needing the cloud or the internet.
+- Central hub reads status, alarms, and sensor data from components, and can show it on an HDMI screen, send alerts to Home Assistant, and log events — all without needing the cloud or the internet.
 
 ## Why this exists
 

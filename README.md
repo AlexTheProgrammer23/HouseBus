@@ -1,4 +1,4 @@
-[![Shopify](https://img.shields.io/badge/Go_to-Shopify_Store-brightgreen)](housenet.store)
+[![Shopify](https://img.shields.io/badge/Go_to-Shopify_Store-brightgreen)](https://housenet.store)
 
 # HouseBus
 

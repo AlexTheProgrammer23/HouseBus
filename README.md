@@ -55,11 +55,6 @@ RJ45 pinout (not Ethernet):
 1: RS485_A  
 2: RS485_B  
 3: GND
-4: NC
-5: NC
-6: NC
-7: NC
-8: NC
 
 The Raspberry Pi Pico is the bus master. It polls all Components and caches their status.
 

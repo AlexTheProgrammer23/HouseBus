@@ -13,9 +13,8 @@ HouseBus is an open hardware + open firmware platform for resilient, local-first
 
 Most “smart home” gear dies the second power or Wi-Fi drops.
 Housebus is meant to:
-- keep emergency loads alive,
 - coordinate them,
-- and report what’s happening,
+- report what’s happening,
 even when the rest of the house is dark.
 
 The system is meant to be safe, cheap, modifiable, and installable by normal humans.

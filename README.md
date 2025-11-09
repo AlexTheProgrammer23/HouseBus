@@ -67,7 +67,7 @@ The Raspberry Pi 4 asks the Pico for a summary and pushes it to Home Assistant /
 
 ## Status / timeline
 
-- [ ] Hub Baseboard Rev A schematic
+- [x] Hub Baseboard Rev A schematic
 - [ ] Hub Baseboard Rev A PCB layout
 - [ ] Pico polling firmware skeleton
 - [ ] Pi 4 supervisor script with USB serial + MQTT
